@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import ReactEcharts from 'echarts-for-react'
+import ReactEcharts from 'echarts-for-react';
 
 class App extends Component {
   render() {
